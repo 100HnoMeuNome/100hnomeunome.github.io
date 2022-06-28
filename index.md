@@ -8,6 +8,7 @@
   * Call of Duty Warzone
   * CrossFit
   * Bike
+  * Community
 
 # Education 📚 
 
@@ -29,8 +30,7 @@
   * Trend Micro Advanced Threat Centric Education Intermediate
 
 # Taleco in action 🔨
-
-# Community Projects ✍️ 
+[Safely handling containers | Snyk](https://snyk.io/blog/safely-handling-containers)
 
 # GitHub Stats 💬
 ![](https://komarev.com/ghpvc/?username=your-github-100HnoMeuNome&style=flat-square)
