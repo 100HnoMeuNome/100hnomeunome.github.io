@@ -23,17 +23,14 @@
   * Qualys Vulnerability Management
   * Azure AZ-900 Microsoft Azure Fundamentals
   * Azure SC-900 Microsoft Security, Compliance, and Identity Fundamentals
-  * Trend Micro Tipping Point Expert
+  * Trend Micro TippingPoint Expert
   * Trend Micro Deep Security Professional
   * ApexOne Certified Trainer
   * Trend Micro Advanced Threat Centric Education Intermediate
 
-# Social Links 📱 
+# Taleco in action 🔨
 
+# Community Projects ✍️ 
 
-# GitHub Stats
+# GitHub Stats 💬
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=100HnoMeuNome&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&ayout=compact)
-
-
-
-
