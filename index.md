@@ -1,4 +1,9 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/talescasagrande/)]( https://www.linkedin.com/in/talescasagrande/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/talescasagrande/)]( https://www.linkedin.com/in/talescasagrande/) 
+# Get In Touch! 📮 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/talescasagrande/)](https://www.linkedin.com/in/talescasagrande/) 
+
+[!Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) (https://www.linkedin.com/in/talescasagrande/)
+
 
 # Whoami 📃
 
