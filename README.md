@@ -79,6 +79,11 @@
 
 [Dados geram muito dinheiro e criminosos só lucram com isso](https://open.spotify.com/episode/7mNuqpc3kM51uOLZcnrr03)
 
+[Golpes pela internet: cuidados para fazer compras online](https://www.youtube.com/watch?v=AECtCLAsIuE&ab_channel=Paran%C3%A1noAr)
+
+[Ciasc realiza palestra sobre proteção de dados contra vulnerabilidades e vazamentos – CIASC](https://www.ciasc.sc.gov.br/noticias/ciasc-realiza-palestra-sobre-protecao-de-dados-contra-vulnerabilidades-e-vazamentos)
+
+[ConfraTech - Social Engineering_Como prevenir ataques digitais](https://youtu.be/mJubkWfQKWQ)
 
 
 # GitHub Stats 💬
