@@ -45,23 +45,23 @@
 
 [Container Safekeeping and Vulnerability Scanning](https://youtu.be/zdp4tYD4gvU)
 
-[Programação e palestrantes | Cloud Conference Day](https://www.cloudconferenceday.com/programa%C3%A7%C3%A3o)
+[Programação e palestrantes Cloud Conference Day](https://www.cloudconferenceday.com/programa%C3%A7%C3%A3o)
 
-[Editora Roncarati - LGPD e inovação tecnológica concentram atenções do Encontro da Região Sul | Artigos e Notícias](https://www.editoraroncarati.com.br/v2/Artigos-e-Noticias/Artigos-e-Noticias/LGPD-e-inovacao-tecnologica-concentram-atencoes-do-Encontro-da-Regiao-Sul.html)
+[Editora Roncarati - LGPD e inovação tecnológica concentram atenções do Encontro da Região Sul](https://www.editoraroncarati.com.br/v2/Artigos-e-Noticias/Artigos-e-Noticias/LGPD-e-inovacao-tecnologica-concentram-atencoes-do-Encontro-da-Regiao-Sul.html)
 
-[Snyk Ambassador Program | Snyk](https://snyk.io/snyk-ambassadors/)
+[Snyk Ambassador Program](https://snyk.io/snyk-ambassadors/)
 
 [Calico Live: Episode 13](https://youtu.be/5NwPlT7jrUY)
 
 [TDC CONNECTIONS 2022 - Como priorizar issues em projetos com Analise de Composição de Software](https://promo.thedevconf.com/conn22-oracle)
 
-[Palestrantes | Previpar](https://previpar.org.br/palestrantes/)
+[Palestrantes - Previpar](https://previpar.org.br/palestrantes/)
 
 [Trilha SOFTWARE SECURITY - TDC CONNECTIONS](https://thedevconf.com/tdc/2022/connections/trilha-software-security?)
 
 [Owasp Belém - Aumentando a maturidade no desenvolvimento de aplicações sem gastar NADA!](https://youtu.be/gA8pRTejBnA)
 
-[Live Darede #287 - O que é e do que se alimenta o tal do eBPF?](https://youtu.be/YGXUJEHNud4)
+[Live Darede #287 O que é e do que se alimenta o tal do eBPF?](https://youtu.be/YGXUJEHNud4)
 
 [CLOUD COMPUTING](https://youtu.be/d2WpsDNKvjc)
 
