@@ -2,14 +2,11 @@
  <a href="https://www.linkedin.com/in/talescasagrande/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />  <a href="https://twitter.com/100HnoMeuNome">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> <a href="https://open.spotify.com/playlist/3T4t8IF7joe466LQIKnsYc?si=c8d92e2756674637"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /> <a href="https://www.tiktok.com/@tiosdowarzone"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /> <a href="tales.775@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <a href="https://t.me/umcopodecerveja"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-    
+
+# Do you want buy me a coffee? ☕
+
+<a href="https://buymeacoffee.com/100hnomeunome"> <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" >
  
- 
-    
-    
-    
-    
-   
 
 # Whoami 📃
 
